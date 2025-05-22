@@ -12,5 +12,5 @@ Cách sử dụng script deploy lên sv có php, hoặc build local dùng xamp u
 
 Ở máy nạn nhân 
 
-Sau đó khi truy cập đường dẫn từ APP máy người khác chỉnh sửa domain chính trỏ về domain của mình sau đó trên máy mình sẽ tự redic đăng nhập tài khoản người khác
+Sau đó khi truy cập đường dẫn từ APP máy người khác chỉnh sửa domain chính trỏ về domain của mình sau đó trên máy mình sẽ tự redic sang trang đăng nhập tài khoản người khác
 
